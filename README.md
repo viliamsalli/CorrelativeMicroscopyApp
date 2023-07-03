@@ -2,11 +2,11 @@
 ![splash](splash.png)
 
 ## Key features
--Image overlay<br>
--Intuitive manual image alignment<br>
--Image visualization<br>
--Image enhancement<br>
--Analysis<br>
+- Image overlay
+- Intuitive manual image alignment
+- Image visualization
+- Image enhancement
+- Analysis
 
 We are developing a software for overlaying and analyzing images, creating visualizations. The software is capable of processing generic image formats. It is specifically developed for correlative microscopy but can be used for many applications. Image alignment can be done easily and accurately by hand or by automatic tools, and further enhanced by various options. The software provides the user with creative ways of interacting with the data, and specific functionalities can be utilized to extract hidden information from the existing data.
 
