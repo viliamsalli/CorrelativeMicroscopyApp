@@ -17,3 +17,5 @@ The goal for the program is to be as accessible and versatile as possible, and n
 On the Releases tab, select the latest version of the program. Inside there are four files, the Executable.zip, Full_Installer.zip and the source codes. Download the following:
 - If you have MATLAB Runtime 2022b or 2023a installed, download the Executable.zip. The file contains the executable software and the documentation.
 - If you don't have the Runtime installed or it is outdated, download the Full_Installer.zip. The file contains an installer, which downloads the correct MATLAB Runtime and sets up the software executable.
+
+[Go to Releases](../../releases)
