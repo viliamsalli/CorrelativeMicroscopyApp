@@ -13,6 +13,7 @@ We are developing a software for overlaying and analyzing images, creating visua
 The goal for the program is to be as accessible and versatile as possible, and not constrained by the type of the images. Industry standard software can often have a steep learning curve and high maintenance costs, and we aim to provide an intuitive and easy-to-use option that competes with existing programs. The project is work-in-progress, but it is already a useful tool in laboratory settings.
 
 ## Installing
-
-MATLAB Runtime 2022b or 2023a is required, which can be installed [here](https://se.mathworks.com/products/compiler/matlab-runtime.html). This needed to be done only once, and later program releases utilize the same Runtime. 
-Install the latest version from the releases tab, and run the software.
+<b>Windows<br></b>
+On the Releases tab, select the latest version of the program. Inside there are four files, the Executable.zip, Full_Installer.zip and the source codes. Download the following:
+- If you have MATLAB Runtime 2022b or 2023a installed, download the Executable.zip. The file contains the executable software and the documentation.
+- If you don't have the Runtime installed or it is outdated, download the Full_Installer.zip. The file contains an installer, which downloads the correct MATLAB Runtime and sets up the software executable.
